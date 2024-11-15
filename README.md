@@ -1,4 +1,2 @@
-# maps-in-python
-this python file contains some things about maps
-
-it doesnt contain the delete function; i might add it in future things
+# python
+this would include all my files in python that i have made if anyone needs them
